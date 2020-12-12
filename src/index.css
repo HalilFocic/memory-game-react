@@ -1,0 +1,19 @@
+*{margin:0;padding:0;}
+.front,.back{
+  margin:10px;
+  border-radius:10px;
+}  
+body{background:black;}
+.container{display:flex;height:100%;width:100%;}
+.cardContainer{width:90%;
+height:100%;
+text-align: center;
+margin:auto;
+margin-top:2%;
+background-image:url("background.jpg");
+padding-top:10px;
+padding-bottom:10px;
+border-radius:10px;
+border:2px solid white;
+}
+.kartica{display:inline-block;}

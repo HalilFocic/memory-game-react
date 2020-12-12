@@ -1,0 +1,19 @@
+header{
+    border-bottom:4px solid gray;
+    background:white;
+    display:flex;
+    font-size:20px;
+    padding:10px;
+    padding-top:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{padding-top:5px;}
+h2{width:90%;}
+li{list-style-type:none;}
+.new-game{background:black;color:white;font-weight: bolder;
+padding:7px;border-radius:5px;}
+.new-game:hover{
+    background:green;
+    color:white;
+    cursor: pointer;
+}
